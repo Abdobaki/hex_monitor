@@ -12,10 +12,7 @@ A beautiful terminal-based system monitor built with Python and `curses`.
 ## Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone <your-repo-url>
-   cd cool_taskManager
-   ```
+  
 
 2. **Install dependencies:**
    ```bash
